@@ -1,0 +1,7 @@
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731305767 | Account: 1234 | deposit: 4000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731305810 | Account: 1234 | deposit: 4000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731305817 | Account: 1234 | deposit: 50000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731305830 | Account: 1234 | withdraw: 50000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731306261 | Account: 12345 | deposit: 5000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731306261 | Account: 67890 | withdraw: 60000
+-e Suspicious Transactions: 2024-11-11 Nov:11:1731306261 | Account: 67890 | withdraw: 60000
